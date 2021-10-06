@@ -1,6 +1,6 @@
 {"restaurants":[
   {
-    "img": "assets/restaurants/KFC.png",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Shared/icons_v2/logo_mob.svg",
     "title": "KFC",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.8"
