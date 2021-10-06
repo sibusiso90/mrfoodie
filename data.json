@@ -1,60 +1,60 @@
 {"restaurants":[
   {
-    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Shared/icons_v2/logo_mob.svg",
+    "img": "https://sibusiso90.github.io/mrfoodie/KFC.png",
     "title": "KFC",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.8"
   },
   {
-    "img": "https://www.mcdonalds.co.za/media/mcdonalds-logo.png",
+    "img": "https://sibusiso90.github.io/mrfoodie/macD.png",
     "title": "Mc Donalds",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.6"
   },
   {
-    "img": "assets/restaurants/burgerking.png",
+    "img": "https://sibusiso90.github.io/mrfoodie/burgerking.png",
     "title": "Burger King",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.9"
   },
   {
-    "img": "assets/restaurants/chickenlicken.jpeg",
+    "img": "https://sibusiso90.github.io/mrfoodie/chickenlicken.jpeg",
     "title": "Chicken Licken",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.0"
   },
   {
-    "img": "assets/restaurants/debonairs.jpeg",
+    "img": "https://sibusiso90.github.io/mrfoodie/debonairs.jpeg",
     "title": "Debonairs",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "5.0"
   },
   {
-    "img": "assets/restaurants/fishandchips.png",
+    "img": "https://sibusiso90.github.io/mrfoodie/fishandchips.png",
     "title": "Fish and Chips",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.1"
   },
   {
-    "img": "assets/restaurants/fishaways.png",
+    "img": "https://sibusiso90.github.io/mrfoodie/fishaways.png",
     "title": "Fish Aways",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.8"
   },
   {
-    "img": "assets/restaurants/Nandos.png",
+    "img": "https://sibusiso90.github.io/mrfoodie/Nandos.png",
     "title": "Nandos",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.9"
   },
   {
-    "img": "assets/restaurants/Romanspizza.png",
+    "img": "https://sibusiso90.github.io/mrfoodie/Romanspizza.png",
     "title": "Romans Pizza",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.2"
   },
   {
-    "img": "assets/restaurants/steers.png",
+    "img": "https://sibusiso90.github.io/mrfoodie/steers.png",
     "title": "Steers",
     "address": "1278 Loving Acres RoadKansas City, MO 64110",
     "rating": "4.3"
