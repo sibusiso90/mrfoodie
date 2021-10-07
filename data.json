@@ -63,7 +63,7 @@
 "categories" : [
   {
     "name": "Burger",
-    "color1": Color.fromARGB(100, 0, 0, 0),
+    "color1": 0xFF000000,
     "color2": Color.fromARGB(100, 0, 0, 0),
     "img": "assets/categories/burger.jpeg"
   },
