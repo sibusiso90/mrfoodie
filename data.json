@@ -295,21 +295,21 @@
     "name": "Big Mac",
     "shop": "Mc Donalds",
     "category": "Burger",
-    "img": "assets/fooditems/McDonalds-Image-Resize.psdBig-mac.png",
+    "img": "https://www.mcdonalds.co.za/media/products/big-mac/McDonalds-Image-Resize.psdBig-mac.png",
     "price": "R46:30"
   },
   {
     "name": "Fries",
     "shop": "Mc Donalds",
     "category": "Add ons",
-    "img": "assets/fooditems/Mediun-Fries.png",
+    "img": "https://www.mcdonalds.co.za/media/products/medium-fries/Mediun-Fries.png",
     "price": "R49.50"
   },
   {
     "name": "Chilli Bites",
     "shop": "Burger King",
     "category": "Add ons",
-    "img": "assets/fooditems/cheesebites.png",
+    "img": "https://cdn.sanity.io/images/czqk28jt/prod_bk_za/a7eb5dd48067627d92dd50b5f2145a87daf848a6-900x900.png",
     "price": "R45.50"
   },
 
@@ -317,7 +317,7 @@
     "name": "Big Mac Meal",
     "shop": "Mc Donalds",
     "category": "burger",
-    "img": "assets/fooditems/Big-Mac-Large-Meal.png",
+    "img": "https://www.mcdonalds.co.za/media/products/bigmac-meal/Big-Mac-Large-Meal.png",
     "price": "R57.90"
   }
 ]
