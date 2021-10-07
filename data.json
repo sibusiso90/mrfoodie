@@ -312,13 +312,7 @@
     "img": "assets/fooditems/cheesebites.png",
     "price": "R45.50"
   },
-  {
-    "name": "Family Treat 10pc",
-    "shop": "KFC",
-    "category": "chicken",
-    "img": "assets/fooditems/Family_Treat_10pc.jpg",
-    "price": "R220.90"
-  },
+
   {
     "name": "Big Mac Meal",
     "shop": "Mc Donalds",
