@@ -95,40 +95,202 @@
 
 "fooditems" : [
   {
-    "name": "4 Dunked Wings",
+    "name": "9 PIECE BUCKET",
     "shop": "KFC",
-    "category": "Wings",
-    "img": "assets/fooditems/4dunkedwings_only.jpg",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/lg2x/21pcbucket.jpg",
+    "price": "R124,90"
+  },
+  {
+    "name": "15 PIECE BUCKET",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/lg2x/21pcbucket.jpg",
+    "price": "R199,90"
+  },
+  {
+    "name": "21 PIECE BUCKET",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/lg2x/21pcbucket.jpg",
+    "price": "R274,90"
+  },
+  {
+    "name": "Family Box",
+    "shop": "KFC",
+    "category": "Family",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/Family_Box.jpg",
+    "price": "R159.90"
+  },
+  {
+    "name": "Family Treat 10PC",
+    "shop": "KFC",
+    "category": "Family",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/Family_Treat_10pc.jpg",
+    "price": "R229.90"
+  },
+  {
+    "name": "Family Treat 8PC",
+    "shop": "KFC",
+    "category": "Family",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/Family_Treat_8pc.jpg",
+    "price": "R199.90"
+  },
+  {
+    "name": "KENTUCKY FOR 2 SF",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/Kentucy_For_2.jpg",
+    "price": "R99.90"
+  },
+  {
+    "name": "Fully Loaded Box with Buddy",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/Fullyfullyburger_original.jpg",
+    "price": "R84.90"
+  },
+  {
+    "name": "Crunch Burger",
+    "shop": "KFC",
+    "category": "Burger",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/crunchburger_only.jpg",
+    "price": "R24.90"
+  },
+  {
+    "name": "Snack Burger",
+    "shop": "KFC",
+    "category": "Burger",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/snackburger_large.jpg",
+    "price": "R19.90"
+  },
+  {
+    "name": "Double Crunch Burger",
+    "shop": "KFC",
+    "category": "Burger",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/doublecrunchburger_only.jpg",
+    "price": "R49.90"
+  },
+  {
+    "name": "Colonel Burger",
+    "shop": "KFC",
+    "category": "Burger",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/colonelburger_only.jpg",
+    "price": "R39.90"
+  },
+  {
+    "name": "Zinger Burger",
+    "shop": "KFC",
+    "category": "Burger",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/originalzingerburger_only.jpg",
+    "price": "R39.90"
+  },
+  {
+    "name": "Wrapsta",
+    "shop": "KFC",
+    "category": "Wrap",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/wrapsta.jpg",
+    "price": "R26.90"
+  },
+  {
+    "name": "Box Master",
+    "shop": "KFC",
+    "category": "Wrap",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/Boxmasteroriginal.jpg",
+    "price": "R49.90"
+  },
+  {
+    "name": "Classic Twister",
+    "shop": "KFC",
+    "category": "Wrap",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/classictwister_only.jpg",
+    "price": "R44.90"
+  },
+  {
+    "name": "Sweet CHilli Twister",
+    "shop": "KFC",
+    "category": "Wrap",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/sweetchillitwister_only.jpg",
+    "price": "R44.90"
+  },
+  {
+    "name": "Streetwise Five with Chips",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/streetwisefive_chips.jpg",
+    "price": "R84.90"
+  },
+  {
+    "name": "Streetwise three with chips",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/streetwisethree_chip.jpg",
+    "price": "R49.90"
+  },
+  {
+    "name": "Streetwise three with regular pap",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/streetwisethree_pap.jpg",
+    "price": "R49.90"
+  },
+  {
+    "name": "Sweetwise two with chips",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/streetwisetwo_chips.jpg",
     "price": "R34.90"
   },
   {
-    "name": "4 Hot Wings",
-    "shop": "KFC",
-    "category": "Wings",
-    "img": "assets/fooditems/4hzwings_only.jpg",
-    "price": "R29.90"
-  },
-  {
-    "name": "9 pc Bucket",
+    "name": "Streetwise two with regular pap",
     "shop": "KFC",
     "category": "Chicken",
-    "img": "assets/fooditems/9pcbucket.jpg",
-    "price": "R124.90"
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/streetwisetwo_pap.jpg",
+    "price": "R34.90"
+  },
+  {
+    "name": "Streetwise one with chip",
+    "shop": "KFC",
+    "category": "Chicken",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/sw1_chip.jpg",
+    "price": "R24.90"
+  },
+  {
+    "name": "24 Zinger Wings Bucket",
+    "shop": "KFC",
+    "category": "Wings",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/24wingbucket.jpg",
+    "price": "R139.90"
   },
   {
     "name": "10 Dunked Wings",
     "shop": "KFC",
     "category": "Wings",
-    "img": "assets/fooditems/10dunkedwings_only.jpg",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/10dunkedwings_only.jpg",
     "price": "R74.90"
   },
   {
-    "name": "Street Wise 2 Pap",
+    "name": "10 Zinger Wings",
     "shop": "KFC",
-    "category": "Chicken",
-    "img": "assets/fooditems/streetwisethree_pap.jpg",
-    "price": "R34.90"
+    "category": "Wings",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/10hzwings_only.jpg",
+    "price": "R64.90"
   },
+  {
+    "name": "4 Dunked Wings",
+    "shop": "KFC",
+    "category": "Wings",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/4dunkedwings_only.jpg",
+    "price": "R39.90"
+  },
+  {
+    "name": "4 Zinger Wings",
+    "shop": "KFC",
+    "category": "Wings",
+    "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/xs2x/4hzwings_only.jpg",
+    "price": "R29.90"
+  },
+  
   {
     "name": "Big Mac",
     "shop": "Mc Donalds",
