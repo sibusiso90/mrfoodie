@@ -69,8 +69,8 @@
   },
   {
     "name": "Pizza",
-    "color1": "0x64000000",,
-    "color2": "0x64000000",,
+    "color1": "0x64000000",
+    "color2": "0x64000000",
     "img": "assets/categories/pizza.png"
   },
   {
