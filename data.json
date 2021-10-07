@@ -63,32 +63,32 @@
 "categories" : [
   {
     "name": "Burger",
-    "color1": 0xff000000,
-    "color2": Color.fromARGB(100, 0, 0, 0),
+    "color1": "Color.fromARGB(100, 0, 0, 0)",
+    "color2": "Color.fromARGB(100, 0, 0, 0)",
     "img": "assets/categories/burger.jpeg"
   },
   {
     "name": "Pizza",
-    "color1": Color.fromARGB(100, 0, 0, 0),
-    "color2": Color.fromARGB(100, 0, 0, 0),
+    "color1": "Color.fromARGB(100, 0, 0, 0)",
+    "color2": "Color.fromARGB(100, 0, 0, 0)",
     "img": "assets/categories/pizza.png"
   },
   {
     "name": "Chicken",
-    "color1": Color.fromARGB(100, 0, 0, 0),
-    "color2": Color.fromARGB(100, 0, 0, 0),
+    "color1": "Color.fromARGB(100, 0, 0, 0)",
+    "color2": "Color.fromARGB(100, 0, 0, 0)",
     "img": "assets/categories/chicken.jpeg"
   },
   {
     "name": "Add ons",
-    "color1": Color.fromARGB(100, 0, 0, 0),
-    "color2": Color.fromARGB(100, 0, 0, 0),
+    "color1": "Color.fromARGB(100, 0, 0, 0)",
+    "color2": "Color.fromARGB(100, 0, 0, 0)",
     "img": "assets/categories/addons.png"
   },
   {
     "name": "Wings",
-    "color1": Color.fromARGB(100, 0, 0, 0),
-    "color2": Color.fromARGB(100, 0, 0, 0),
+    "color1": "Color.fromARGB(100, 0, 0, 0)",
+    "color2": "Color.fromARGB(100, 0, 0, 0)",
     "img": "assets/categories/wings.jpeg"
   }
 ],
