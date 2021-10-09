@@ -99,14 +99,14 @@
     "shop": "KFC",
     "category": "Chicken",
     "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/lg2x/21pcbucket.jpg",
-    "price": "R124,90"
+    "price": 124.90
   },
   {
     "name": "15 PIECE BUCKET",
     "shop": "KFC",
     "category": "Chicken",
     "img": "https://order.kfc.co.za/Content/OnlineOrderingImages/Menu/Items/lg2x/21pcbucket.jpg",
-    "price": "R199,90"
+    "price": R199.90
   },
   {
     "name": "21 PIECE BUCKET",
