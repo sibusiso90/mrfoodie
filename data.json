@@ -80,7 +80,7 @@
     "img": "https://sibusiso90.github.io/mrfoodie/chicken.jpeg"
   },
   {
-    "name": "Add ons",
+    "name": "Sides",
     "color1": "0x64000000",
     "color2": "0x64000000",
     "img": "https://sibusiso90.github.io/mrfoodie/addons.png"
@@ -95,73 +95,73 @@
     "name": "Beef",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/burger.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/beef.JPG"
   },
   {
     "name": "Beverages",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/beverages.jpg"
   },
   {
     "name": "Ice Cream",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/icecream.jpg"
   },
   {
     "name": "Pie",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/pie.jpeg"
   },
   {
     "name": "Muffin",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/muffins.jpg"
   },
   {
     "name": "Pork",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/pork.jpg"
   },
   {
     "name": "Sandwich",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/sandwich.jpg"
   },
   {
     "name": "Sausages",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/sausage.jpg"
   },
   {
     "name": "Seafood",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/seafood.jpg"
   },
   {
     "name": "Snack",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/snack.jpg"
   },
   {
     "name": "Wors",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/wors.jpg"
   },
   {
     "name": "Wrap",
     "color1": "0x64000000",
     "color2": "0x64000000",
-    "img": "https://sibusiso90.github.io/mrfoodie/wings.jpeg"
+    "img": "https://sibusiso90.github.io/mrfoodie/wrap.jpg"
   }
 ],
 
