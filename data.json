@@ -1650,13 +1650,7 @@
             "price": "169.90",
             "img": "https://steers.co.za/images/menu/2021/sharing/sharing---king-steer-burger-sharing-meal.png"
         },
-        {
-            "name": "Full Chicken Sharing Meal",
-            "shop": "Steers",
-            "category": "Chicken",
-            "price": "224.90",
-            "img": "https://steers.co.za/images/menu/2021/sharing/sharing---full-chicken-sharing-meal.png"
-        },
+        
         {
             "name": "Chips Small",
             "shop": "Steers",
